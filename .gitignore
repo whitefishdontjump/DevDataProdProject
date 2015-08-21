@@ -56,3 +56,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# miscellaneous
+App-1/*.*
+census-app/*.*
+census-app/data/counties.rds
+*.dcf
